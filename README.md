@@ -273,13 +273,10 @@ Found a bug or have a suggestion? We'd love to hear from you!
 - **💡 Feature Requests** - [Request Feature](https://github.com/yourusername/synth-music-app/issues/new?template=feature_request.md)
 - **❓ Questions** - [Ask in Discussions](https://github.com/yourusername/synth-music-app/discussions)
 
-### Getting Help
+### Contact
 
-- **📖 Documentation** - [docs.synthapp.com](https://docs.synthapp.com)
-- **💬 Community Discord** - [Join Server](https://discord.gg/synthapp)
-- **📧 Email Support** - support@synthapp.com
-- **🐦 Twitter** - [@SynthMusicApp](https://twitter.com/SynthMusicApp)
-
+- **📧 Email Support** - stylebenderkh@gmail.com
+- **📞 Phone** - +213 541 09 59 03
 ---
 
 ## 📄 License
