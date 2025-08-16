@@ -33,8 +33,11 @@
 ---
 
 ## 🎯 Overview
+<img width="1197" height="664" alt="4444u4kuklukuk" src="https://github.com/user-attachments/assets/027fac9c-580a-404b-a8bf-7b4bce250ad8" />
 
 Synth redefines music creation with an innovative approach that combines gesture-based controls, real-time audio processing, and collaborative features. Whether you're a professional producer or just starting your musical journey, Synth provides the tools you need to create, collaborate, and share your music with the world.
+
+<img width="1422" height="517" alt="44949494949" src="https://github.com/user-attachments/assets/8c4f97b2-8cdf-4c90-879d-278206d8ba8e" />
 
 ### 🎪 What Makes Synth Special?
 
